@@ -123,5 +123,3 @@ function checkAnswer() {
 
 let btn = document.getElementsByClassName("btn-check")[0];
 btn.addEventListener("click", checkAnswer);
-
-btn.click();
